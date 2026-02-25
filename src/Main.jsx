@@ -15,8 +15,7 @@ const BeerSong = () => {
     }
     lines.push(
       <div key="final">
-        <p>No more bottles of beer on the wall, no more bottles of beer.</p>
-        <p>Go to the store and buy some more, 99 bottles of beer on the wall...</p>
+        <p>If that one bottle should happen to fall, what a waste of alcohol!</p>
       </div>
     );
     return lines;
