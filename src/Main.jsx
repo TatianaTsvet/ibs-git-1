@@ -17,6 +17,7 @@ const BeerSong = () => {
       <div key="final">
         <p>No more bottles of beer on the wall, no more bottles of beer</p>
         <p>We've taken them down and passed them around; now we're drunk and passed out!</p>
+        <p>If that one bottle should happen to fall, what a waste of alcohol!</p>
       </div>
     );
     return lines;
