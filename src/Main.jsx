@@ -3,7 +3,7 @@ import React from 'react';
 const BeerSong = () => {
   const renderSong = () => {
     const lines = [];
-    for (let i = 99; i > 0; i--) {
+    for (let i = 9; i > 0; i--) {
       lines.push(
         <div key={`verse-${i}`}>
           <p>{i} bottles of beer on the wall, {i} bottles of beer!</p>
